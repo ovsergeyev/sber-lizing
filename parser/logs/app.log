@@ -1,0 +1,73 @@
+2025-07-26 16:03:22,730 [INFO] app: Переход на страницу https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:03:22,769 [INFO] app: Страница загружена https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:03:53,150 [ERROR] app: Не удалось принять cookies: Message: 
+Stacktrace:
+#0 0x558840eed75a <unknown>
+#1 0x5588409a04b0 <unknown>
+#2 0x5588409f19b3 <unknown>
+#3 0x5588409f1ba1 <unknown>
+#4 0x558840a401f4 <unknown>
+#5 0x558840a175bd <unknown>
+#6 0x558840a3d5e0 <unknown>
+#7 0x558840a17363 <unknown>
+#8 0x5588409e3d63 <unknown>
+#9 0x5588409e49c1 <unknown>
+#10 0x558840eb2a6b <unknown>
+#11 0x558840eb6951 <unknown>
+#12 0x558840e9ab62 <unknown>
+#13 0x558840eb74c4 <unknown>
+#14 0x558840e7f13f <unknown>
+#15 0x558840edb6f8 <unknown>
+#16 0x558840edb8d6 <unknown>
+#17 0x558840eec5a6 <unknown>
+#18 0x7fea3953bac3 <unknown>
+
+2025-07-26 16:04:57,438 [INFO] app: Переход на страницу https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:04:57,485 [INFO] app: Страница загружена https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:05:10,607 [INFO] app: Переход на страницу https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:05:10,652 [INFO] app: Страница загружена https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:06:32,687 [INFO] app: Переход на страницу https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:06:32,729 [INFO] app: Страница загружена https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:10:16,449 [INFO] app: Переход на страницу https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:10:16,489 [INFO] app: Страница загружена https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:11:41,911 [INFO] app: Переход на страницу https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:11:41,944 [INFO] app: Страница загружена https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:12:16,022 [INFO] app: Переход на страницу https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:12:16,055 [INFO] app: Страница загружена https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:15:06,191 [INFO] app: Переход на страницу https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:15:06,405 [INFO] app: Страница загружена https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:16:06,772 [INFO] app: Переход на страницу https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:16:06,959 [INFO] app: Страница загружена https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:16:59,979 [INFO] app: Переход на страницу https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y&PAGEN_1=2
+2025-07-26 16:17:00,909 [INFO] app: Страница загружена https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y&PAGEN_1=2
+2025-07-26 16:17:17,408 [INFO] app: Переход на страницу https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y&PAGEN_1=1
+2025-07-26 16:17:17,430 [INFO] app: Страница загружена https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y&PAGEN_1=1
+2025-07-26 16:17:22,297 [INFO] app: Переход на страницу https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y&PAGEN_1=3
+2025-07-26 16:17:22,369 [INFO] app: Страница загружена https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y&PAGEN_1=3
+2025-07-26 16:17:40,972 [INFO] app: Переход на страницу https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y&PAGEN_1=4
+2025-07-26 16:17:41,216 [INFO] app: Страница загружена https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y&PAGEN_1=4
+2025-07-26 16:18:00,947 [INFO] app: Переход на страницу https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y&PAGEN_1=5
+2025-07-26 16:18:01,275 [INFO] app: Страница загружена https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y&PAGEN_1=5
+2025-07-26 16:18:10,873 [ERROR] app: Ошибка при обработке элемента ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-07-26 16:18:10,903 [ERROR] app: Ошибка при обработке элемента HTTPConnectionPool(host='localhost', port=36069): Max retries exceeded with url: /session/4d819a39be06c599159f8d660db5b7ff/element/f.1108830FA29D99C4962F38C05C8F1478.d.116AA1648F092B10C0B0359BC6FFBECA.e.1667/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcefb751e00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-07-26 16:18:10,910 [ERROR] app: Ошибка при обработке элемента HTTPConnectionPool(host='localhost', port=36069): Max retries exceeded with url: /session/4d819a39be06c599159f8d660db5b7ff/element/f.1108830FA29D99C4962F38C05C8F1478.d.116AA1648F092B10C0B0359BC6FFBECA.e.1668/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcefb5c1260>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-07-26 16:18:10,951 [ERROR] app: Ошибка при обработке элемента HTTPConnectionPool(host='localhost', port=36069): Max retries exceeded with url: /session/4d819a39be06c599159f8d660db5b7ff/element/f.1108830FA29D99C4962F38C05C8F1478.d.116AA1648F092B10C0B0359BC6FFBECA.e.1669/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcefb5c1bf0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-07-26 16:18:10,973 [ERROR] app: Ошибка при обработке элемента HTTPConnectionPool(host='localhost', port=36069): Max retries exceeded with url: /session/4d819a39be06c599159f8d660db5b7ff/element/f.1108830FA29D99C4962F38C05C8F1478.d.116AA1648F092B10C0B0359BC6FFBECA.e.1670/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcefb5c2580>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-07-26 16:18:10,986 [ERROR] app: Ошибка при обработке элемента HTTPConnectionPool(host='localhost', port=36069): Max retries exceeded with url: /session/4d819a39be06c599159f8d660db5b7ff/element/f.1108830FA29D99C4962F38C05C8F1478.d.116AA1648F092B10C0B0359BC6FFBECA.e.1671/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcefb5c2f10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-07-26 16:18:11,000 [ERROR] app: Ошибка при обработке элемента HTTPConnectionPool(host='localhost', port=36069): Max retries exceeded with url: /session/4d819a39be06c599159f8d660db5b7ff/element/f.1108830FA29D99C4962F38C05C8F1478.d.116AA1648F092B10C0B0359BC6FFBECA.e.1672/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcefb5c38a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-07-26 16:18:18,041 [INFO] app: Переход на страницу https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:18:18,117 [INFO] app: Страница загружена https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:19:37,283 [INFO] app: Переход на страницу https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:19:37,326 [INFO] app: Страница загружена https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:22:08,337 [INFO] app: Переход на страницу https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:22:08,435 [INFO] app: Страница загружена https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:22:32,388 [INFO] app: Переход на страницу https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:22:32,547 [INFO] app: Страница загружена https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y
+2025-07-26 16:23:03,794 [INFO] app: Переход на страницу https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y&PAGEN_1=2
+2025-07-26 16:23:04,157 [INFO] app: Страница загружена https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y&PAGEN_1=2
+2025-07-26 16:23:20,248 [INFO] app: Переход на страницу https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y&PAGEN_1=1
+2025-07-26 16:23:20,725 [INFO] app: Страница загружена https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y&PAGEN_1=1
+2025-07-26 16:23:39,371 [INFO] app: Переход на страницу https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y&PAGEN_1=3
+2025-07-26 16:23:39,514 [INFO] app: Страница загружена https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y&PAGEN_1=3
+2025-07-26 16:23:57,773 [INFO] app: Переход на страницу https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y&PAGEN_1=4
+2025-07-26 16:23:57,827 [INFO] app: Страница загружена https://www.sberleasing.ru/realizaciya-imushestva/?set_filter=y&arrFilter_434_2227190758=Y&arrFilter_434_2888745377=Y&arrFilter_434_794772980=Y&PAGEN_1=4

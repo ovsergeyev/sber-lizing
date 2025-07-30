@@ -1,0 +1,35 @@
+services:
+  parser:
+    build:
+      context: ./parser
+    container_name: parser
+    depends_on:
+      - db
+    restart: unless-stopped
+    command: >
+      /bin/sh -c "
+      alembic upgrade head &&
+      python main.py
+      "
+
+  bot:
+    build:
+      context: ./bot
+    container_name: bot
+    restart: unless-stopped
+
+  db:
+    image: postgres:16
+    container_name: postgres-db
+    environment:
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_DB: ${DB_NAME}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "${DB_PORT}:5432"
+    restart: unless-stopped
+
+volumes:
+  pgdata:
