@@ -12,11 +12,11 @@ services:
       python main.py
       "
 
-  bot:
-    build:
-      context: ./bot
-    container_name: bot
-    restart: unless-stopped
+  # bot:
+  #   build:
+  #     context: ./bot
+  #   container_name: bot
+  #   restart: unless-stopped
 
   db:
     image: postgres:16

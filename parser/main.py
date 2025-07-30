@@ -143,7 +143,7 @@ def parse_card(card_tag: WebElement) -> AutoSchema:
             By.XPATH,
             ".//div[contains(@class, 'realization__item-prop-name') and contains(., 'VIN')]/following-sibling::*[1]",
         )
-        vin = model_element.get_attribute("innerText").strip()
+        vin = vin_element.get_attribute("innerText").strip()
     except NoSuchElementException:
         vin = None
 

@@ -14,6 +14,6 @@ class Auto(Base):
     year_of_release = Column(Integer)
     mileage = Column(Integer)
     location = Column(String)
-    vin = Column(string)
+    vin = Column(String)
     price = Column(Integer)
     min_installment = Column(Integer)

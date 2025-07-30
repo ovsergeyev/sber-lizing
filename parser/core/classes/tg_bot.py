@@ -21,7 +21,7 @@ class TgBot:
         price_formatted = f"{auto.price:,}".replace(",", " ")
 
         caption_lines = [
-            f"<b>СБЕР ЛИЗИНГ{auto.title}</b>\n\r",
+            f"<b>СБЕР ЛИЗИНГ: {auto.title}</b>\n\r",
         ]
 
         if getattr(auto, "brand", None):
@@ -65,8 +65,7 @@ class TgBot:
             chat_id=self.chat_id,
             photo=image_from_url,
             caption=caption,
-            parse_mode="HTML",
-            reply_markup=keyboard,
+            parse_mode="HTML"
         )
 
         await asyncio.sleep(2)
