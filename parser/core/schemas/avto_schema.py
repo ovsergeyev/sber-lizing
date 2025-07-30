@@ -9,6 +9,7 @@ class AutoSchema(BaseModel):
     title: str
     brand: Optional[str] = None
     model: Optional[str] = None
+    vin: Optional[str] = None
     year_of_release: Optional[int] = None
     mileage: Optional[int] = None
     location: str
@@ -20,7 +21,9 @@ class AutoSchema(BaseModel):
     @validator("price", pre=True)
     def parse_price(cls, v):
         if isinstance(v, str):
-            res = "".join(v.split())
+            res = v.replace("от", "")
+            res = res.replace("₽", "")
+            res = "".join(res.split())
             return int(res)
         return v
 

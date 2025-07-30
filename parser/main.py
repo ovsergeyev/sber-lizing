@@ -137,6 +137,15 @@ def parse_card(card_tag: WebElement) -> AutoSchema:
         model = model_element.get_attribute("innerText").strip()
     except NoSuchElementException:
         model = None
+        
+    try:
+        vin_element = card_tag.find_element(
+            By.XPATH,
+            ".//div[contains(@class, 'realization__item-prop-name') and contains(., 'VIN')]/following-sibling::*[1]",
+        )
+        vin = model_element.get_attribute("innerText").strip()
+    except NoSuchElementException:
+        vin = None
 
     try:
         mileage_element = card_tag.find_element(
@@ -157,6 +166,7 @@ def parse_card(card_tag: WebElement) -> AutoSchema:
         title=title,
         brand=brand,
         model=model,
+        vin=vin,
         year_of_release=year_of_release,
         mileage=mileage,
         location=location,

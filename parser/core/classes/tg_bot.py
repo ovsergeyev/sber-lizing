@@ -21,7 +21,7 @@ class TgBot:
         price_formatted = f"{auto.price:,}".replace(",", " ")
 
         caption_lines = [
-            f"<b>{auto.title}</b>\n\r",
+            f"<b>СБЕР ЛИЗИНГ{auto.title}</b>\n\r",
         ]
 
         if getattr(auto, "brand", None):
@@ -29,6 +29,9 @@ class TgBot:
 
         if getattr(auto, "model", None):
             caption_lines.append(f"<b>Модель:</b> <code>{auto.model}</code>")
+            
+        if getattr(auto, "vin", None):
+            caption_lines.append(f"<b>VIN:</b> <code>{auto.vin}</code>")
 
         if getattr(auto, "year_of_release", None):
             caption_lines.append(
@@ -53,7 +56,7 @@ class TgBot:
         keyboard = InlineKeyboardMarkup(
             inline_keyboard=[
                 [
-                    InlineKeyboardButton(text="Удалить", callback_data="delete"),
+                    InlineKeyboardButton(text="Удалить"),
                 ],
             ],
         )
